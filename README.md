@@ -2,7 +2,7 @@
 
 A modern, fully responsive **personal portfolio website** built with a sleek split-screen hero design. It showcases my skills, projects, internship experience, certificates, and contact information — with a working email form and smooth dark/light theme toggle.
 
-🔗 **Live:** [vistify-apk.vercel.app](https://vistify-apk.vercel.app/) *(update with your portfolio URL)*
+🔗 **Live:** https://personal-portfolio-theta-five-51.vercel.app/ 
 
 ---
 
